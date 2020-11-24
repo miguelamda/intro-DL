@@ -24,5 +24,8 @@ Alguno libros de referencia:
  * [Deep Learning - I. Goodfellow](https://www.deeplearningbook.org/)
  
 Otros materiales de referencia:
+ * [Paper: Deep Learning - Yann LeCun, Yoshua Bengio & Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+ * [Paper: ImageNet Classification with Deep Convolutional Neural Networks - Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
  * [Canal Youtube de divulgación de IA - DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg)
- * [Canal Youtube de divulgación de IA - Two minutes papersCanal Youtube de divulgación de IA - Two minutes papers opciones de elemento](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+ * [Canal Youtube de divulgación de IA - Two minutes papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+ 
