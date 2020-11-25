@@ -1,4 +1,4 @@
-# Introducción al Deep Learning con Python
+# Introducción al Deep Learning con Python (Curso ICE Universidad de Sevilla)
 
 Material del curso Introducción al Deep Learning con Python impartido en el ICE de la Universidad de Sevilla
 
